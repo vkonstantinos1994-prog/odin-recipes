@@ -1,0 +1,21 @@
+* {
+    background-color: ghostwhite;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul, ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+hr {
+    margin-top: 24px;
+}
