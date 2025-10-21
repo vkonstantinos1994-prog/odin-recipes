@@ -25,3 +25,13 @@ a {
   color: inherit;          /* keeps the same color as surrounding text */
 }
 
+
+a:hover {
+  color: blue;             /* color when hovered */
+}
+
+/*  To change color when visited:
+a:visited {
+  color:blueviolet;       
+} 
+*/
